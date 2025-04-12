@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a Soundarya(Dental
+      label: Dr.Soundarya (dental surgeon)
       color: text-primary
       type: Badge
     elementId: ''
