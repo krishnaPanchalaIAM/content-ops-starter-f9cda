@@ -7,7 +7,9 @@ sections:
       text: "Train for your career in\_Clinical Research"
       color: text-dark
       type: TitleBlock
-    subtitle: I am Smart
+    subtitle: >-
+      Are you studying for the USMLE? Train & work in the future of medicine
+      while you prepare for your exams.
     text: |
       You can't bet me
     actions:
