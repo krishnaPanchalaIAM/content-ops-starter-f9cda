@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Welcome to myresearchboot camp
+      text: Welcome to research boot camp
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
