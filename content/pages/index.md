@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: I am Smart
     text: |
-      You can bet me 
+      You can't bet me
     actions:
       - label: Get started
         altText: ''
