@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Welcome to research boot camp
+      text: "Train for your career in\_Clinical Research"
       color: text-dark
       type: TitleBlock
     subtitle: I am Smart
